@@ -1,0 +1,6 @@
+{
+  "src": "./tests",
+  "browsers": "chrome:emulation:device=iphone X;cdpPort=9223",
+  "skipJsErrors": true,
+  "hostname": "localhost"
+}
